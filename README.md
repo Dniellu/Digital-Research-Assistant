@@ -7,14 +7,54 @@
 
 ---
 
-## 📌 Project Overview
+## 🎥 Project Demo
 
-本專案運用 AI Agent 技術進行資料分析，包括：
+🔗 **Final Project Report Video**  
+YouTube Link：https://www.youtube.com/watch?v=vkKSGu4_e-4
 
-- 多 Agent 對話協作（DataAgent）
-- 自動機器人貼文功能
-- 自動生成 PDF 報表
-- 分析工程設計訪談逐字稿並量化相關項目
+---
+
+## 🎯 Project Motivation — Why Digital Research Assistant?
+
+In academic and research environments, students often spend a significant amount of time on:
+
+✔ Transcribing and organizing interview content  
+✔ Integrating and categorizing qualitative data  
+✔ Analyzing engineering design aspects  
+✔ Manually creating reports and visualizations  
+
+These processes are **repetitive, time-consuming, and labor-intensive**,  
+preventing researchers from focusing on real insights and innovation.
+
+Therefore, this project aims to utilize **Multi-Agent AI System**  
+to automate the academic data processing workflow:
+
+> **Data Reading → Analysis → Summarization → Report Generation**
+
+By reducing human effort in repetitive tasks,  
+researchers can focus more on knowledge construction and interpretation.
+
+---
+
+## 🚀 Project Overview
+
+This project implements a **Digital Research Assistant**  
+that collaborates autonomously to complete essential research tasks:
+
+✅ Analyze engineering design interview transcripts and quantify design aspects  
+✅ Automatically generate statistical graphs and analytical results  
+✅ Produce PDF reports with written summaries  
+✅ Provide guidance and refine results through user interaction  
+
+The system integrates multiple AI agents with clear task allocation:
+
+- **Data Agent**: Data ingestion and preprocessing  
+- **NLP Agent**: Semantic analysis and aspect annotation  
+- **Reporting Agent**: Visualization + PDF report automation  
+- **Assistant Agent**: User interaction and result interpretation  
+
+> **The goal is to transform AI into a research assistant — not just a tool.**
+
 
 ---
 
@@ -32,12 +72,6 @@
 
 ---
 
-## 🎥 Project Demo
-
-🔗 **Final Project Report Video**  
-YouTube Link：https://www.youtube.com/watch?v=vkKSGu4_e-4
-
----
 
 ## 📝 Course Progress Log
 
