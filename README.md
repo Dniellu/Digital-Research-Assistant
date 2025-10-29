@@ -81,7 +81,7 @@ The system integrates multiple AI agents with clear task allocation:
 |------|--------|
 | 2025/02/25 | 建立 test 資料夾、設定 venv、環境配置、加入 autogen 套件，以及 `.env` 設定 GEMINI_API_KEY |
 | 2025/03/04 | 完成 DataAgent 三程式相互對話執行 |
-| 2025/03/25 | 自動機器人發文功能完成（FB 測試） |
+| 2025/03/25 | 自動機器人發文功能完成 |
 | 2025/04/01 | `getPDF.py` 自動生成報表功能完成 |
 
 ---
