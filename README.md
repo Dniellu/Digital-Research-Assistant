@@ -12,7 +12,7 @@
 ## 🎥 Project Demo
 
 🔗 **Final Project Report Video**  
-YouTube Link：https://www.youtube.com/watch?v=vkKSGu4_e-4
+YouTube Link：https://youtu.be/IOs4ldpbZ20
 
 ---
 
